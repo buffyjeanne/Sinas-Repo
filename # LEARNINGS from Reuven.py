@@ -1,5 +1,5 @@
 # LEARNINGS from Reuven
-#lalalala for testing in history
+# for testing in history
 
 ############################################
 ### Day 2: 21.01.2022
